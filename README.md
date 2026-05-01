@@ -13,3 +13,14 @@ https://github.com/creador-gracia/BUSQUEDA-LINEAL-ITERATIVA
 https://github.com/creador-gracia/FIBONACCI-RECURSIVO.
 
 https://github.com/creador-gracia/FACTORIAL-ITERACTIVO
+
+
+Resultados
+Buscar 7 recursivo: 3
+Burbuja iterativo: [1, 2, 3, 5, 9]
+Burbuja recursivo: [1, 2, 3, 5, 9]
+
+youtube link video:
+https://studio.youtube.com/video/5evo9YHQr_E/edit
+
+
